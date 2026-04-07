@@ -63,3 +63,11 @@ If you find this repo useful please cite:
   number={},
   pages={7715-7719},
 ```
+
+## Related work
+
+| Publication        | Code |
+|--------------------|------|
+| [User-Driven Adaptive CSI Feedback With Ordered Vector Quantization](https://ieeexplore.ieee.org/document/10208156) | https://github.com/vrizz/csi-feedback-ovq  |
+| [Changeable Rate and Novel Quantization for CSI Feedback Based on Deep Learning](https://ieeexplore.ieee.org/document/9799802) | https://github.com/ch28/CHNet  |
+| [Machine learning-based CSI feedback with variable length in FDD massive MIMO](https://ieeexplore.ieee.org/document/9928062) | https://github.com/matteonerini/ml-based-csi-feedback |
