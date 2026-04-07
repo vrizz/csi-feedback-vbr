@@ -1,6 +1,6 @@
 # A Reimplementation of Multi-Rate Variable-Length CSI Compression for FDD Massive MIMO
 
-This implementation is based on the [CompressAI](https://github.com/InterDigitalInc/CompressAI.git) library.
+This repository contains my implementation of the [paper](https://ieeexplore.ieee.org/document/10448212) "Multi-Rate Variable-Length CSI Compression for FDD Massive MIMO". This implementation is built on top of the [CompressAI](https://github.com/InterDigitalInc/CompressAI.git) library.
 
 ## Preliminaries
 
@@ -36,6 +36,9 @@ python3 main.py -train --name test1
 ```
 python3 test_bit_budgets.py --run lambda-5e-4_div11.8
 ```
+
+## Results
+
 
 ## Citation
 
