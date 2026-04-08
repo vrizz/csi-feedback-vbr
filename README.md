@@ -1,6 +1,10 @@
 # A Reimplementation of Multi-Rate Variable-Length CSI Compression for FDD Massive MIMO
 
-This repository contains my implementation of the [paper](https://ieeexplore.ieee.org/document/10448212) "Multi-Rate Variable-Length CSI Compression for FDD Massive MIMO". This implementation is built on top of the [CompressAI](https://github.com/InterDigitalInc/CompressAI.git) library.
+Unofficial implementation of the [paper](https://ieeexplore.ieee.org/document/10448212):
+
+> B. Park, H. Do and N. Lee, "Multi-Rate Variable-Length CSI Compression for FDD Massive MIMO," _ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),_ Seoul, Korea, Republic of, 2024, pp. 7715-7719.
+
+This implementation is built on top of the [CompressAI](https://github.com/InterDigitalInc/CompressAI.git) library.
 
 ## Preliminaries
 
@@ -38,7 +42,9 @@ python3 test_bit_budgets.py --run lambda-5e-4_div11.8
 ```
 
 ## Results
+The results closely match those presented in the paper.
 
+![NMSE vs bit budget.](results/comparison.png)
 
 ## Citation
 
