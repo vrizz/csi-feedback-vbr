@@ -68,6 +68,7 @@ If you find this repo useful please cite:
   volume={},
   number={},
   pages={7715-7719},
+}
 ```
 
 ## Related work
