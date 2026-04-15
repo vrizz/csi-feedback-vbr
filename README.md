@@ -51,23 +51,26 @@ The results closely match those presented in the paper.
 If you find this repo useful please cite:
 
 ```bibtex
-@misc{rizzello2026-csi-feedback-vbr,
-  author = {Rizzello, Valentina},
-  title = {A Reimplementation of Multi-Rate Variable-Length CSI Compression for FDD Massive MIMO},
-  year = {2026},
-  howpublished = {\url{https://github.com/vrizz/csi-feedback-vbr}},
+@software{Rizzello_csi-feedback-vbr_2026,
+    author = {Rizzello, Valentina},
+    doi = {10.5281/zenodo.19597095},
+    month = apr,
+    title = {{csi-feedback-vbr}},
+    url = {https://github.com/vrizz/csi-feedback-vbr},
+    version = {1.0.0},
+    year = {2026}
 }
 ```
 
 ```bibtex
 @INPROCEEDINGS{park2024-multi-rate,
-  author={Park, Bumsu and Do, Heedong and Lee, Namyoon},
-  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title={Multi-Rate Variable-Length CSI Compression for FDD Massive MIMO}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={7715-7719},
+    author={Park, Bumsu and Do, Heedong and Lee, Namyoon},
+    booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+    title={Multi-Rate Variable-Length CSI Compression for FDD Massive MIMO}, 
+    year={2024},
+    volume={},
+    number={},
+    pages={7715-7719},
 }
 ```
 
